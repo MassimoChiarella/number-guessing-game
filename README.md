@@ -1,2 +1,2 @@
 # number-guessing-game
-A random number guessing game made in python
+A guessing game made in python wherein the program chooses a random number between 1 and 100 then prompts the user to guess it. Depending on the number that the user inputs, the program will tell them whether their guess is too low or high and prompt them to guess again. Once the user guesses the correct number, a message will be displayed congratulating them and the program ends. 
